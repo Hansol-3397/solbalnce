@@ -1,0 +1,21 @@
+/* ie lt 9 */
+
+/*main_m1 -best*/
+.m_title{background:url("../images/new_border_all.png") no-repeat}
+
+.m1 .bestTab > LI > A:link, .m1 .bestTab > LI > A:visited{width:100%;}
+
+.m1 .bestTab > li > a:hover, .m1 .bestTab > li > a:focus, .m1 .bestTab > li > a.on{ background: url("../images/m1_bestmenu_hover.png") no-repeat;}
+.m1 .bestTab > li.tab2 > a:hover, .m1 .bestTab > li.tab2 > a:focus, .m1 .bestTab > li.tab2 > a.on{ background: url("../images/m1_bestmenu_hover2.png") no-repeat;}
+.m1 .bestTab > li.tab3 > a:hover, .m1 .bestTab > li.tab3 > a:focus, .m1 .bestTab > li.tab3 > a.on{ background: url("../images/m1_bestmenu_hover3.png") no-repeat;}
+.m1 .bestTab > li.tab4 > a:hover, .m1 .bestTab > li.tab4 > a:focus, .m1 .bestTab > li.tab4 > a.on{ background: url("../images/m1_bestmenu_hover4.png") no-repeat;}
+.m1 .bestTab > li.tab5 > a:hover, .m1 .bestTab > li.tab5 > a:focus, .m1 .bestTab > li.tab5 > a.on{ background: url("../images/m1_bestmenu_hover5.png") no-repeat;}
+
+/*main_m3 -myfutere*/
+	.videoBox iframe{display:none}
+	.m3 ul li .videoBox a.linkImage{display:block}
+
+/* main_m4 -lookbook */
+	.m4 UL .a2 A P { background-color:rgba(255,255,255,.7);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3ffffff', endColorstr='#b3ffffff',GradientType=0 ); /* IE6-9 */ }
+

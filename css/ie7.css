@@ -1,0 +1,24 @@
+/* skip nav */
+.skip_nav{margin-top:-35px}
+
+/*header*/
+UL.rightMenu{padding-top:3px;}
+UL.rightMenu LI{display:inline; padding-right:3px}
+
+/*visual*/
+#visual .lolling{left:50%; margin-left:-67.5px; width:139px; height:auto}
+#visual .lolling LI{float:left}
+#visual .lolling LI.stop A:link{margin-top:-4px;}
+
+/*main_m1 -best*/
+.best_product .product_details{padding-top:37px}
+
+/*main_m2 -new*/
+.m2 .a51 A .newDesc{left:0; margin-left:64.5px}
+.m2 .arrow LI{float:left}
+
+/* main_m4 -lookbook */
+.m4 UL .a2 A:link{ text-decoration:none}
+.m4 UL .a2 A P{margin:0;}
+.m4 UL .a2 A:hover P{margin-left:-486px; }
+

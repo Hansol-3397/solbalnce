@@ -1,0 +1,8 @@
+/*  base. css */
+body{  font-family:"Malgun Gothic" , dotum , sans-serif; font-size:80%;
+		  color:#333; background-color:#fff;}
+a:link, a:visited{  color:#333;   text-decoration:none; }
+a:hover, a:focus{  color:#e51837;   text-decoration:underline; }
+/*  숨김요소:   .gnbbox h2 */
+.hidden  {position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; font-size:0; line-height:0; }
+input, label, img{  vertical-align:middle;  }
